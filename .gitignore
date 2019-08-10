@@ -114,3 +114,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# PyCharm
+.idea
+
+# Gedit
+*~
+
+# General temp files
+.DS_Store
